@@ -1,8 +1,7 @@
  # Real-Time Color Recognition
 
 ### Author
-- github: @
-
+- github: @YashGajiwala795
 
 ### About the Project
 Real-Time Color Recognition is a Python-based tool that detects colors from live video feeds or images in real-time. This can be helpful in design, accessibility, and image analysis applications.
