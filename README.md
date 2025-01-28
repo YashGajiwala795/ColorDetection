@@ -23,4 +23,5 @@ Real-Time Color Recognition is a Python-based tool that detects colors from live
    pip install opencv-python
 
 ## Demo
-- **Detect The Red Color From Image.**
+### **Detect The Red Color From Image.**
+![Demo](E:\ML PROJECT\red.png)
