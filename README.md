@@ -13,10 +13,8 @@ Real-Time Color Recognition is a Python-based tool that detects colors from live
 
 ### Prerequisites
 1. Python installed on your system.
-2. Install dependencies: 
+2. Install OpenCV: 
 
    ```bash
    pip install opencv-python
-
-  ```bash
-      pip install numpy
+3.
