@@ -1,2 +1,1 @@
-# ColorDetection
- Real-Time Color Recognition
+ # Real-Time Color Recognition
