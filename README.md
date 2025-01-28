@@ -7,9 +7,9 @@
 Real-Time Color Recognition is a Python-based tool that detects colors from live video feeds or images in real-time. This can be helpful in design, accessibility, and image analysis applications.
 
 ### Technologies Used
-- Python 3.x
-- OpenCV
-- NumPy
+- **Python 3.x**
+- **OpenCV**
+- **NumPy**
 
 ### Getting Started
 ### Prerequisites
